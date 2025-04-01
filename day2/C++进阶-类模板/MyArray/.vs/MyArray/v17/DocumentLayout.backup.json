@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5B66\u4E60\\local_respository\\Ai\u002BLinux\u002Bpython\\day2\\C\u002B\u002B\u8FDB\u9636-\u7C7B\u6A21\u677F\\MyArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F82E28C7-5516-44B2-910B-20F848A9D8F6}|MyArray\\MyArray.vcxproj|D:\\\u5B66\u4E60\\local_respository\\Ai\u002BLinux\u002Bpython\\day2\\C\u002B\u002B\u8FDB\u9636-\u7C7B\u6A21\u677F\\MyArray\\MyArray\\MyArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F82E28C7-5516-44B2-910B-20F848A9D8F6}|MyArray\\MyArray.vcxproj|solutionrelative:MyArray\\MyArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82E28C7-5516-44B2-910B-20F848A9D8F6}|MyArray\\MyArray.vcxproj|D:\\\u5B66\u4E60\\local_respository\\Ai\u002BLinux\u002Bpython\\day2\\C\u002B\u002B\u8FDB\u9636-\u7C7B\u6A21\u677F\\MyArray\\MyArray\\MyArray.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F82E28C7-5516-44B2-910B-20F848A9D8F6}|MyArray\\MyArray.vcxproj|solutionrelative:MyArray\\MyArray.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyArray.cpp",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\\local_respository\\Ai\u002BLinux\u002Bpython\\day2\\C\u002B\u002B\u8FDB\u9636-\u7C7B\u6A21\u677F\\MyArray\\MyArray\\MyArray.cpp",
+              "RelativeDocumentMoniker": "MyArray\\MyArray.cpp",
+              "ToolTip": "D:\\\u5B66\u4E60\\local_respository\\Ai\u002BLinux\u002Bpython\\day2\\C\u002B\u002B\u8FDB\u9636-\u7C7B\u6A21\u677F\\MyArray\\MyArray\\MyArray.cpp*",
+              "RelativeToolTip": "MyArray\\MyArray.cpp*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T03:41:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyArray.hpp",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\\local_respository\\Ai\u002BLinux\u002Bpython\\day2\\C\u002B\u002B\u8FDB\u9636-\u7C7B\u6A21\u677F\\MyArray\\MyArray\\MyArray.hpp",
+              "RelativeDocumentMoniker": "MyArray\\MyArray.hpp",
+              "ToolTip": "D:\\\u5B66\u4E60\\local_respository\\Ai\u002BLinux\u002Bpython\\day2\\C\u002B\u002B\u8FDB\u9636-\u7C7B\u6A21\u677F\\MyArray\\MyArray\\MyArray.hpp",
+              "RelativeToolTip": "MyArray\\MyArray.hpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-01T03:30:07.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
